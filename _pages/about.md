@@ -27,6 +27,6 @@ Luyuan Wang, Honglin Li, Qinjie Xiao, Xinran Yao, **Xiaoyu Pan**, Yuqing Zhang, 
 
 # Experience
 
-**2019-Now** Ph.D. Student in College of Computer Science and Technology
+**2019-Now** Ph.D. Student in College of Computer Science and Technology of Zhejiang University.
 
-**2015-2019** Bachelor in Department of Polymer Science and Engineering
+**2015-2019** Bachelor in Department of Polymer Science and Engineering of Zhejiang University.
