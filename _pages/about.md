@@ -10,6 +10,12 @@ redirect_from:
 
 # Publications
 
+## Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks
+
+**Xiaoyu Pan**, Jiaming Mai, Xinwei Jiang, Dongxue Tang, Jingxiang Li, Tianjia Shao, Kun Zhou, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/), [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
+
+[Proceedings of Siggraph'2022, Vancouver, 8-11 August, 2022](https://s2022.siggraph.org/). [Project page](http://www.cad.zju.edu.cn/home/jin/SigCloth2022/SigCloth2022.htm)
+
 ## HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction 
 **Xiaoyu Pan**, Jiancong Huang, Jiaming Mai, He Wang, Honglin Li, Tongkui Su, Wenjun Wang, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
 
