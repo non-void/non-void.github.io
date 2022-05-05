@@ -12,14 +12,14 @@ redirect_from:
 
 ## Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks
 
-**Xiaoyu Pan**, Jiaming Mai, Xinwei Jiang, Dongxue Tang, Jingxiang Li, Tianjia Shao, Kun Zhou, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/), [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
+**Xiaoyu Pan**, Jiaming Mai, Xinwei Jiang, Dongxue Tang, Jingxiang Li, [Tianjia Shao](http://tianjiashao.com/), [Kun Zhou](http://kunzhou.net/), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/), [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
 
 [Proceedings of Siggraph'2022](https://s2022.siggraph.org/) (**SIGGRAPH**)
 
 [Project page](http://www.cad.zju.edu.cn/home/jin/SigCloth2022/SigCloth2022.htm)
 
 ## HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction 
-**Xiaoyu Pan**, Jiancong Huang, Jiaming Mai, He Wang, Honglin Li, Tongkui Su, Wenjun Wang, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
+**Xiaoyu Pan**, Jiancong Huang, Jiaming Mai, [He Wang](http://drhewang.com/), Honglin Li, Tongkui Su, Wenjun Wang, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
 
 [Proceedings of the ACM on Computer Graphics and Interactive Techniques](https://dl.acm.org/journal/pacmcgit) (**PACMCGIT**)
 (Special Issue of ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games 2021), 2021, 4(1): Article 10 
