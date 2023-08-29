@@ -10,6 +10,14 @@ redirect_from:
 
 # Publications
 
+## A Locality-Based Neural Solver for Optical Motion Capture
+
+[Xiaoyu Pan](https://non-void.github.io/), [Bowen Zheng](https://cr7st.github.io/), Xinwei Jiang, Guanglong Xu, Xianli Gu, Jingxiang Li, Qilong Kou, [He Wang](http://drhewang.com/), Tianjia Shao, Kun Zhou, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin)
+
+[Proceedings of Siggraph Asia'2023](https://asia.siggraph.org/2023/) (**SIGGRAPH ASIA**)
+
+[Project page](http://www.cad.zju.edu.cn/home/jin/SigA20231/NeuralSolver.htm)
+
 ## Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks
 
 **Xiaoyu Pan**, Jiaming Mai, Xinwei Jiang, Dongxue Tang, Jingxiang Li, [Tianjia Shao](http://tianjiashao.com/), [Kun Zhou](http://kunzhou.net/), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/), [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
